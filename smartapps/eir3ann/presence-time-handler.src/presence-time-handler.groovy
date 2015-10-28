@@ -25,7 +25,7 @@ definition(
 
 preferences {
 	section("Presence Time Handler") {
-		paragraph "Run Routine Based on Presence, Mode & Time"
+		paragraph "Run Routine Based on Presence, Mode & TimeTEST"
 	}
 }
 
